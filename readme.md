@@ -1,4 +1,5 @@
-Repository Init Content
-=======================
+Imports property of a process in Business Central
+=================================================
 
-Your project description here.
+To test Imports property you can use WebService provided by https://github.com/bpmn-tutorials/countryinfo.
+Do not forget to as dependency Java types by adding Jar from https://github.com/bpmn-tutorials/countryinfo/tree/master/countryinfo_datatypes
